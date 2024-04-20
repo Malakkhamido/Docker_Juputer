@@ -2,7 +2,7 @@
 attached below is a code of my juputer notebook an analysis of the world wide books especially Harry Potter series also i took an image of jupyter datascience notebook so that i can pull it in a container i did a dockerfile 
 # Instructions on how to build and run the Docker container.
 first pull the image you want to work with
->>docker pull jupyter/datascience-notebook
+>docker pull jupyter/datascience-notebook
 second: make a Dockerfile
 check it
 Third in the command line write:
